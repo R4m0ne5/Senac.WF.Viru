@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senac.WF.Viru", "Senac.WF.Viru.csproj", "{1E40EAFA-C4CE-44D7-B886-7BBDC235ED62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E40EAFA-C4CE-44D7-B886-7BBDC235ED62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E40EAFA-C4CE-44D7-B886-7BBDC235ED62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E40EAFA-C4CE-44D7-B886-7BBDC235ED62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E40EAFA-C4CE-44D7-B886-7BBDC235ED62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {022DFCA7-C893-4B49-ABE8-AD2C137BC9F3}
+	EndGlobalSection
+EndGlobal
